@@ -1,0 +1,8 @@
+# Visual Studio Ignores (web app ignores are Sample.Web)
+.vs/
+*/bin
+*/obj
+*.user
+node_modules
+deploy
+.idea
