@@ -2,4 +2,4 @@
 
 Testing integration with Jenkins running locally on Tomcat.
 
-Update 4
+Build is pushed automatically to ProGet, also running locally.
